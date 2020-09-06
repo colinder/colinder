@@ -4,6 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on blockChain PJT and Blog and Algorithm
 - 🌱 I’m currently learning basic blockChain
+- ⚡ Fun fact: Im happy 😁
 <!--
 - 👯 I’m looking to collaborate on ... blockChain
 - 🤔 I’m looking for help with ...blockChain
@@ -11,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...blockChain
 - 😄 Pronouns: ...blockChain
 -->
-- ⚡ Fun fact: Im happy 😁
+
 
 <br/>
 
