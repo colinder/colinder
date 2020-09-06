@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 </a>
 <a href="mailto:kjonggwan@gmail.com">
   <img align="left" alt="Hargun | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg"/>
-</a>
+</a> 
