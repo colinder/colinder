@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...blockChain
 - 📫 How to reach me: ...blockChain
 - 😄 Pronouns: ...blockChain
-- ⚡ Fun fact: ...blockChain
+- ⚡ Fun fact: ... im looking for a job
 -->
