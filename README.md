@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on blockChain PJT and Blog and Algorithm
-- 🌱 I’m currently learning basic blockChain
+- 🔭 I’m currently working on react native
+- 🌱 I’m currently learning CS about web
 - ⚡ Fun fact: Im happy 😁
 <!--
 - 👯 I’m looking to collaborate on ... blockChain
