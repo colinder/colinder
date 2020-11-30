@@ -1,6 +1,5 @@
 # Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Here are some ideas to get you started:
 
 - 🔭 I'm preparing my own business.
 - 🌱 I’m currently learning CS about web 
