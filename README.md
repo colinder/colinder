@@ -23,9 +23,9 @@ const kjonggwan = {
   Language: [Python, Javascript],
   IDE: [VSCode, Pycharm, Jupyter Notebook],
   Tools: {
-            Frontend Development: [HTML, SCSS, Bootstrap, Vue],
-            Backend Development: [django],
-            Mobile App Development: [React-native],
+            Frontend: [HTML, SCSS, Bootstrap, Vue],
+            Backend: [django],
+            Mobile App: [React-native],
             etc: [Vuex, typescript, eslint...]
          },
  Challenge: "I've developed a serverless system with Aws Service and Google Firebase, and now I'm realizing my idea.",
