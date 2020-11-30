@@ -16,24 +16,22 @@ Here are some ideas to get you started:
 
 <br/>
 
-**Languages and Tools:**
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> about me  
 
-<p align="center">
-  <div align="center">
-  
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-  </div>
-</p>
-
-
+```python
+const kjonggwan = {
+  Language: [Python, Javascript],
+  IDE: [VSCode, Pycharm, Jupyter Notebook],
+  Tools: {
+            Frontend Development: [HTML, SCSS, Bootstrap, Vue],
+            Backend Development: [django],
+            Mobile App Development: [React-native],
+            etc: [Vuex, typescript, eslint...]
+         },
+ Challenge: "I've developed a serverless system with Aws Service and Google Firebase, and now I'm realizing my idea.",
+ Interests: "Web development is still fun and interested in computer security."
+}
+```
 
 
 <br />
