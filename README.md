@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on react native
-- 🌱 I’m currently learning CS about web
-- ⚡ Fun fact: Im happy 😁
+- 🔭 I'm preparing my own business.
+- 🌱 I’m currently learning CS about web 
+- ⚡ and Im happy 😁
 <!--
 - 👯 I’m looking to collaborate on ... blockChain
 - 🤔 I’m looking for help with ...blockChain
