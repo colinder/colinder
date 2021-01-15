@@ -4,6 +4,7 @@
 - 🔭 I'm preparing my own business.
 - 🌱 I’m currently learning CS about web 
 - ⚡ and Im happy 😁
+- [Here](https://www.notion.so/Portfolio-de150f25257f45de961efc3c78b7cc78) is my Portfolio
 <!--
 - 👯 I’m looking to collaborate on ... blockChain
 - 🤔 I’m looking for help with ...blockChain
