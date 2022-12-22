@@ -20,14 +20,15 @@
 ```Javascript
 const kjonggwan = {
   Language: ["Python", "Javascript"],
-  IDE: ["VSCode", "pycharm", "Jupyter Notebook"],
+  IDE: ["VSCode", "Jupyter Notebook"],
   Tools: {
-            Frontend: ["HTML", "SCSS", "Bootstrap", "Vue"],
+            Frontend: ["Vue.js"],
             Backend: ["django"],
-            Mobile App: ["React-native"],
-            etc: ["Vuex", "typescript", "eslint"...]
+            MobileApp: ["React-native"],
+            DesktopApplication :["electron.js"],
+            dataBase: ["mariaDB"],
+            etc: ["linux", "typescript", ...]
          },
- Challenge: "I've developed a serverless system with Aws Service and Google Firebase, and now I'm realizing my idea.",
  Interests: "Web development is still fun and interested in computer security."
 }
 ```
