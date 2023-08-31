@@ -18,18 +18,18 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> about me  
 
 ```Javascript
-const kjonggwan = {
-  Language: ["Python", "Javascript"],
+export const kjonggwan = {
+  Language: ["Python", "Javascript", "Typescript"],
   IDE: ["VSCode", "Jupyter Notebook"],
   Tools: {
-            Frontend: ["Vue.js"],
-            Backend: ["django"],
+            Frontend: ["React.js", "Vue.js"],
+            Backend: ["Django"],
             MobileApp: ["React-native"],
             DesktopApplication :["electron.js"],
             dataBase: ["mariaDB"],
             etc: ["linux", "typescript", ...]
          },
- Interests: "Web development is still fun and interested in computer security."
+ Interests: "All the technologies I've never experienced before"
 }
 ```
 
