@@ -1,8 +1,7 @@
 # Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🌱 I’m doing on AI(ML/DL), full stack, Mobile app, Desktop application in AI company
+- 🌱 I’m doing on AI(ML/DL), full stack, Mobile app, Desktop application 
 - 🔭 I'm preparing my own business.
-- ⚡ and Im happy 😁
 - [Here](https://www.notion.so/Portfolio-de150f25257f45de961efc3c78b7cc78) is my Portfolio
 - [Here](https://colinder.github.io) is my Blog
 <!--
