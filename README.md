@@ -22,11 +22,11 @@ export const kjonggwan = {
   IDE: ["VSCode", "Jupyter Notebook"],
   Tools: {
             Frontend: ["React.js", "Vue.js"],
-            Backend: ["Django"],
+            Backend: ["Django", "Nest.js"],
             MobileApp: ["React-native"],
             DesktopApplication :["electron.js"],
             dataBase: ["mariaDB"],
-            etc: ["linux", "typescript", ...]
+            etc: ["linux"...]
          },
  Interests: "All the technologies I've never experienced before"
 }
